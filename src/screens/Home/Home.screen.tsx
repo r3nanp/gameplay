@@ -1,6 +1,6 @@
 import { View, Text } from 'react-native'
 
-import { styles } from './home.screen.styles'
+import { styles } from './home.styles'
 
 export const Home = () => {
   return (

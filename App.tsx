@@ -1,4 +1,3 @@
-import React from 'react'
 import { useFonts } from 'expo-font'
 import { StatusBar } from 'expo-status-bar'
 import { Rajdhani_700Bold } from '@expo-google-fonts/rajdhani'
@@ -19,7 +18,7 @@ export default function App() {
   return (
     <>
       <AppRoutes />
-      <StatusBar style="auto" />
+      <StatusBar style="light" />
     </>
   )
 }

@@ -31,12 +31,19 @@ export const theme: Theme = {
       fontSize: 15
     }
   },
+  spacings: {
+    small: 8,
+    regular: 16,
+    big: 24,
+    huge: 64,
+  },
   colors: {
     heading: '#DDE3F0',
     primary: '#E51C44',
     busy: '#D07622',
     online: '#32BD50',
     secondary: '#495BCC',
+    background: '#0D133D',
     body: '#ABB1CC',
     away: '#E51C44'
   }
